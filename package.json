@@ -1,0 +1,14 @@
+{
+  "name": "greenCodeTest",
+  "version": "1.0.0",
+  "description": "Green:code interview test.",
+  "scripts": {
+    "test": "mocha --timeout 15000"
+  },
+  "author": "Adam Vlčan",
+  "type": "module",
+  "dependencies": {
+    "mocha": "^10.0.0",
+    "selenium-webdriver": "^4.4.0"
+  }
+}
