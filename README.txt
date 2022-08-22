@@ -27,8 +27,7 @@ To execute tests, please follow these steps:
     1) Go to Jenkins instance at 'http://81.95.108.25:8080/'.
     2) Login with these credentials:
 
-        login: greencode
-        password: greencode987-
+        credentials deleted
 
     3)Select job named 'CurrentWeather' and click 'Build Now' in left navbar.
     4)After build is complete (it will be red) click on last build and select 'Console Output'. On the bottom, there is simple table with test results.
